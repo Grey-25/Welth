@@ -15,8 +15,10 @@ Manually add Transaction
 
 
 <img width="1369" alt="Screenshot 2025-05-10 at 12 44 27 PM" src="https://github.com/user-attachments/assets/1b1a84e7-cbfd-475a-becf-39c6af398206" />
+Visualisation via bar grapth of your expence .
+<img width="1440" alt="Screenshot 2025-05-10 at 12 45 57 PM" src="https://github.com/user-attachments/assets/e5f81ae4-6bbd-4014-8af1-9804178d252b" />
 
-<img width="798" alt="Screenshot 2025-05-10 at 12 42 47 PM" src="https://github.com/user-attachments/assets/2e714c92-a6dd-4444-acc0-1f53ba961865" /><img width="1440" alt="Screenshot 2025-05-10 at 12 45 57 PM" src="https://github.com/user-attachments/assets/e5f81ae4-6bbd-4014-8af1-9804178d252b" />
+Mountly pic chart for expance trcker
 <img width="1421" alt="Screenshot 2025-05-10 at 12 40 53 PM" src="https://github.com/user-attachments/assets/82be530a-c1c2-4cb9-ad3c-489ee82dfca2" />
 
 
