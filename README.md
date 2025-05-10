@@ -1,8 +1,21 @@
-This project is a sophisticated, modern web application designed to provide users with intelligent financial insights and management tools. It leverages a powerful tech stack to deliver a seamless, secure, and scalable experience. Here's a detailed breakdown suitable for an interview discussion:
+This platform is a modern web application designed to provide users with intelligent financial tools. Built using React 19, Next.js 15, and other cutting-edge technologies like Supabase, Prisma, Clerk Authentication, Inngest, and Arcjet, it allows users to track expenses, receive AI-powered financial advice, and manage their finances securely. The platform emphasizes scalability, performance, and security, offering a robust solution for personal finance management with features like AI integration and asynchronous processing for background tasks.
+
+
+
 
 
 <img width="1436" alt="Screenshot 2025-05-10 at 12 51 18 PM" src="https://github.com/user-attachments/assets/717733a2-4b35-4d7c-92c6-41ca788a17bd" />
-<img width="1432" alt="Screenshot 2025-05-10 at 12 51 50 PM" src="https://github.com/user-attachments/assets/2a1944b9-20ad-4fe4-8d51-5e528c8955d8" /><img width="1369" alt="Screenshot 2025-05-10 at 12 44 27 PM" src="https://github.com/user-attachments/assets/1b1a84e7-cbfd-475a-becf-39c6af398206" />
+
+Authentication using clerk
+
+
+<img width="1432" alt="Screenshot 2025-05-10 at 12 51 50 PM" src="https://github.com/user-attachments/assets/2a1944b9-20ad-4fe4-8d51-5e528c8955d8" />
+
+Manually add Transaction
+
+
+<img width="1369" alt="Screenshot 2025-05-10 at 12 44 27 PM" src="https://github.com/user-attachments/assets/1b1a84e7-cbfd-475a-becf-39c6af398206" />
+
 <img width="798" alt="Screenshot 2025-05-10 at 12 42 47 PM" src="https://github.com/user-attachments/assets/2e714c92-a6dd-4444-acc0-1f53ba961865" /><img width="1440" alt="Screenshot 2025-05-10 at 12 45 57 PM" src="https://github.com/user-attachments/assets/e5f81ae4-6bbd-4014-8af1-9804178d252b" />
 <img width="1421" alt="Screenshot 2025-05-10 at 12 40 53 PM" src="https://github.com/user-attachments/assets/82be530a-c1c2-4cb9-ad3c-489ee82dfca2" />
 
