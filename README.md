@@ -76,7 +76,8 @@ A modern web application designed to provide users with intelligent tools for ma
 
 <img width="1369" alt="Screenshot 2025-05-10 at 12 44 27 PM" src="https://github.com/user-attachments/assets/1b1a84e7-cbfd-475a-becf-39c6af398206" />
 
-<img width="1440" alt="Screenshot 2025-05-10 at 12 45 57 PM" src="https://github.com/user-attachments/assets/e5f81ae4-6bbd-4014-8af1-9804178d252b" />
+<img width="1382" alt="Screenshot 2025-05-10 at 12 46 41 PM" src="https://github.com/user-attachments/assets/06e82f92-4727-43f9-9216-0b953bb6864b" />
+
 
 ---
 
