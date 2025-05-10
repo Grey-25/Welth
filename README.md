@@ -1,7 +1,7 @@
 This platform is a modern web application designed to provide users with intelligent financial tools. Built using React 19, Next.js 15, and other cutting-edge technologies like Supabase, Prisma, Clerk Authentication, Inngest, and Arcjet, it allows users to track expenses, receive AI-powered financial advice, and manage their finances securely. The platform emphasizes scalability, performance, and security, offering a robust solution for personal finance management with features like AI integration and asynchronous processing for background tasks.
 
 
-
+link to visit in varcel  https://welth-8es8nh25r-piyush55dudes-projects.vercel.app
 
 
 <img width="1436" alt="Screenshot 2025-05-10 at 12 51 18 PM" src="https://github.com/user-attachments/assets/717733a2-4b35-4d7c-92c6-41ca788a17bd" />
